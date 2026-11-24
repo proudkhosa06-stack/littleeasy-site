@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://littleeasy.co.za/sitemap.xml
